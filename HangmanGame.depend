@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1590886343 source:d:\projects\hangmangame\main.cpp
+	<stdlib.h>
+	<cstring>
+	<fstream>
+	<time.h>
+	<map>
+	<ctime>
+	<iomanip>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<map>
+
+1590886343 source:j:\my_work\projects\hangmangame\main.cpp
+	<stdlib.h>
+	<cstring>
+	<fstream>
+	<time.h>
+	<map>
+	<ctime>
+	<iomanip>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<map>
+
+1607457666 source:e:\projects_c\importtant_projects\c++\hangmangame\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<fstream>
+	<time.h>
+	<map>
+	<ctime>
+	<iomanip>
+

@@ -1,0 +1,15 @@
+international
+data
+animal
+cat
+rat
+expression
+computer
+science
+faculty
+chapmionship
+football
+basketball
+sports
+art
+desktop
